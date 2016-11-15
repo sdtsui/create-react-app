@@ -1,0 +1,22 @@
+{
+  "name": "shadow-test",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.2",
+    "ramda": "^0.22.1",
+    "react": "^0.14.7",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^0.14.7",
+    "react-shadow": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
